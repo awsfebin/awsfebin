@@ -9,8 +9,5 @@ Here are some ideas to get you started:
 
 i have worked on a POC, in angular too. I have worked in some ui stream while working.
 
-- 💬 Ask me about ...
-- 📫 How to reach me: on 09739139526,email - febinacj@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact - reach me: on 09739139526,email - febinacj@gmail.com
+
